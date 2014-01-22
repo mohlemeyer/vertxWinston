@@ -1,0 +1,9 @@
+{
+    "description": "Winston JavaScript Logging Library",
+    "homepage": "https://github.com/mohlemeyer/vertxWinston",
+    "author": "Matthias Ohlemeyer <mohlemeyer@gmail.com>",
+    "licenses": ["MIT", "BSD"],
+    "keywords": ["Logging","JavaScript"],
+    "main": "jslibs/winston/qunitTests/runTests.js",
+    "includes":"de.actail~qunitSinon~svn"
+}
